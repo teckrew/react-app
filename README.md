@@ -1,2 +1,2 @@
-# reacta-app
+# react-app
 React starter template
